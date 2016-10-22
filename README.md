@@ -5,3 +5,7 @@ Guess you really shouldn't attack others.
 I'll include an actual version (more touched up and not messy) in my actual script when I release it on SF.
 
 ![](http://i.lunaversity.xyz/4098.jpg)
+
+#Issues
+
+It's a shit ton likely you'll run into issues just make an issue on the github forum and I'll fix it probably.
