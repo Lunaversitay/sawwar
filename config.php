@@ -9,7 +9,7 @@
 
 // Steam API Key
 
-$SteamAPIKey = "970FEE48CAB89B5195C7B8B85DA3A3A4"; #API key goes here
+$SteamAPIKey = ""; #API key goes here
 
 $community_name = "SawWar Autism v2";
 $map_name = "rp_autismcity_v33xxx";
