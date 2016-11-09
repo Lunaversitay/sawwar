@@ -11,8 +11,8 @@
 
 $SteamAPIKey = "APIKey"; #API key goes here
 
-$community_name = "SawWar Autism v2";
-$map_name = "rp_autismcity_v33xxx";
+$community_name = "SawWar v2";
+$map_name = "rp_ripoffcity_v33xxx";
 
 // image OR color
 $bg_type = "img";
